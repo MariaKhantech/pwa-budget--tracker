@@ -12,7 +12,7 @@ request.onsuccess = (event) => {
 	db = event.target.result;
 	//we need to check if the app in online before pushing the changes made offline to the DB
 	if (navigator.onLine) {
-		pushToDB();
+		checkDatabase();
 	}
 };
 
