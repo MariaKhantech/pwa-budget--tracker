@@ -1,4 +1,4 @@
-# pwa-budget-tracker
+PWA BUDGET TRACKER
 <!--linkedin logo-->
 <a class="LI-simple-link" href='https://www.linkedin.com/in/maria-khan-9202471a3?trk=profile-badge'>Maria's LinkedIn <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" alt="linkedin logo." width="20" height="20"> </a></div>
 
